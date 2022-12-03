@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %} About page | HMS HOSPITAL {% endblock %}
+{% block content %}
+<h1>HMS HOSPITAL</h1>
+<h4>California, CA, street 2345 zipcode :12345</h4>
+<div style="display:flex;padding:50px;">
+<div class="row">
+   <div class="column">
+    <div class="card">
+        <img src="{% static 'images/email.png/' %}" alt="" srcset="" width="70px" >
+        <p>Email US</p>
+        <p style="color: lightcoral;">hmsservie@hs.org</p>
+    </div>
+  </div>
+</div>
+<div style="display:flex;padding:50px;"></div>
+<div class="row">
+    <div class="colum">
+    <div class="card">
+        <img src="{% static 'images/phone-call.png/' %}" alt="" srcset="" width="70px" >
+        <p>CALL US</p>
+        <p style="color: lightcoral;">+18976778969</p>
+    </div>
+</div>
+</div>
+<div style="display:flex;padding:50px;"></div>
+<div class="row">
+    <div class="colum">
+    <div class="card">
+        <img src="{% static 'images/phone-call.png/' %}" alt="" srcset="" width="70px" >
+        <p>FOLLOW US</p>
+        <p style="color: lightcoral;">facbook/hmshosptails</p>
+    </div>
+</div>
+</div>
+</div>
+{% endblock %}

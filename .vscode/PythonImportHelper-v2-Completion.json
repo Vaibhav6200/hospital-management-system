@@ -1,0 +1,1137 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "Booking",
+        "importPath": "bookingAPP.models",
+        "description": "bookingAPP.models",
+        "isExtraImport": true,
+        "detail": "bookingAPP.models",
+        "documentation": {}
+    },
+    {
+        "label": "Departments",
+        "importPath": "hospitalAPP.models",
+        "description": "hospitalAPP.models",
+        "isExtraImport": true,
+        "detail": "hospitalAPP.models",
+        "documentation": {}
+    },
+    {
+        "label": "Doctors",
+        "importPath": "hospitalAPP.models",
+        "description": "hospitalAPP.models",
+        "isExtraImport": true,
+        "detail": "hospitalAPP.models",
+        "documentation": {}
+    },
+    {
+        "label": "Departments",
+        "importPath": "hospitalAPP.models",
+        "description": "hospitalAPP.models",
+        "isExtraImport": true,
+        "detail": "hospitalAPP.models",
+        "documentation": {}
+    },
+    {
+        "label": "Doctors",
+        "importPath": "hospitalAPP.models",
+        "description": "hospitalAPP.models",
+        "isExtraImport": true,
+        "detail": "hospitalAPP.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderBy",
+        "importPath": "django.db.models.expressions",
+        "description": "django.db.models.expressions",
+        "isExtraImport": true,
+        "detail": "django.db.models.expressions",
+        "documentation": {}
+    },
+    {
+        "label": "RegisteredUser",
+        "importPath": "accountAPP.models",
+        "description": "accountAPP.models",
+        "isExtraImport": true,
+        "detail": "accountAPP.models",
+        "documentation": {}
+    },
+    {
+        "label": "EmptyPage",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidPage",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "Paginator",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "re_path",
+        "importPath": "django.urls.conf",
+        "description": "django.urls.conf",
+        "isExtraImport": true,
+        "detail": "django.urls.conf",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accountAPP.migrations.0001_initial",
+        "description": "accountAPP.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='RegisteredUser',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('first_name', models.CharField(max_length=50)),",
+        "detail": "accountAPP.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accountAPP.migrations.0002_registereduser_user_name",
+        "description": "accountAPP.migrations.0002_registereduser_user_name",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accountAPP', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='registereduser',\n            name='user_name',\n            field=models.CharField(default=23, max_length=20, unique=True),\n            preserve_default=False,",
+        "detail": "accountAPP.migrations.0002_registereduser_user_name",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accountAPP.migrations.0003_auto_20210621_1804",
+        "description": "accountAPP.migrations.0003_auto_20210621_1804",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accountAPP', '0002_registereduser_user_name'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='registereduser',\n            name='user_name',\n        ),\n        migrations.AddField(",
+        "detail": "accountAPP.migrations.0003_auto_20210621_1804",
+        "documentation": {}
+    },
+    {
+        "label": "AccountappConfig",
+        "kind": 6,
+        "importPath": "accountAPP.apps",
+        "description": "accountAPP.apps",
+        "peekOfCode": "class AccountappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'accountAPP'",
+        "detail": "accountAPP.apps",
+        "documentation": {}
+    },
+    {
+        "label": "RegisteredUser",
+        "kind": 6,
+        "importPath": "accountAPP.models",
+        "description": "accountAPP.models",
+        "peekOfCode": "class RegisteredUser(models.Model):\n    first_name = models.CharField(max_length=50, blank=False)\n    last_name = models.CharField(max_length=50, blank=False)\n    email = models.EmailField(unique=True,blank=False)\n    password = models.CharField(max_length=6, blank=False)\n    phone_number = models.IntegerField()\n    DOB = models.DateField(blank=False)\n    address = models.TextField(max_length=100)\n    gender = models.CharField(max_length=12)\n    def __str__(self):",
+        "detail": "accountAPP.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "accountAPP.urls",
+        "description": "accountAPP.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.register, name=\"register\"),\n    path('login/', views.login, name=\"login\"),\n    path('logout/', views.logout, name=\"logout\"),\n]",
+        "detail": "accountAPP.urls",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "accountAPP.views",
+        "description": "accountAPP.views",
+        "peekOfCode": "def register(request):\n    if request.method == \"POST\":\n        fn = request.POST['fname']\n        ln = request.POST['lname']\n        email = request.POST['email']\n        password1 = request.POST['password']\n        password2 = request.POST['password1']\n        number = request.POST['number']\n        address = request.POST['address']\n        date_of_birth = request.POST['dob']",
+        "detail": "accountAPP.views",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "accountAPP.views",
+        "description": "accountAPP.views",
+        "peekOfCode": "def login(request):\n    if request.method == \"POST\":\n        username = request.POST['username']\n        password = request.POST['password']\n        user = auth.authenticate(username=username, password=password)\n        if user is not None:\n                auth.login(request, user)\n                return redirect('userlog')\n        messages.info(request, \"invalid credentials\")\n        return redirect('login')",
+        "detail": "accountAPP.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "kind": 2,
+        "importPath": "accountAPP.views",
+        "description": "accountAPP.views",
+        "peekOfCode": "def logout(request):\n    auth.logout(request)\n    return redirect('/')",
+        "detail": "accountAPP.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "bookingAPP.migrations.0001_initial",
+        "description": "bookingAPP.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Booking',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('full_name', models.CharField(max_length=25)),",
+        "detail": "bookingAPP.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "bookingAPP.migrations.0002_auto_20210619_0840",
+        "description": "bookingAPP.migrations.0002_auto_20210619_0840",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('hospitalAPP', '0003_auto_20210618_1025'),\n        ('bookingAPP', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='booking',\n            name='dep_name',\n            field=models.ForeignKey(default=34, on_delete=django.db.models.deletion.CASCADE, to='hospitalAPP.departments'),",
+        "detail": "bookingAPP.migrations.0002_auto_20210619_0840",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "bookingAPP.migrations.0003_auto_20210619_1940",
+        "description": "bookingAPP.migrations.0003_auto_20210619_1940",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('bookingAPP', '0002_auto_20210619_0840'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='booking',\n            name='dep_name',\n            field=models.CharField(max_length=12),\n        ),",
+        "detail": "bookingAPP.migrations.0003_auto_20210619_1940",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "bookingAPP.migrations.0004_alter_booking_profile_photo",
+        "description": "bookingAPP.migrations.0004_alter_booking_profile_photo",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('bookingAPP', '0003_auto_20210619_1940'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='booking',\n            name='profile_photo',\n            field=models.ImageField(upload_to='bookedprofiles'),\n        ),",
+        "detail": "bookingAPP.migrations.0004_alter_booking_profile_photo",
+        "documentation": {}
+    },
+    {
+        "label": "BookingappConfig",
+        "kind": 6,
+        "importPath": "bookingAPP.apps",
+        "description": "bookingAPP.apps",
+        "peekOfCode": "class BookingappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'bookingAPP'",
+        "detail": "bookingAPP.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Booking",
+        "kind": 6,
+        "importPath": "bookingAPP.models",
+        "description": "bookingAPP.models",
+        "peekOfCode": "class Booking(models.Model):\n    full_name = models.CharField(max_length=25,blank=False)\n    profile_photo = models.ImageField(upload_to=\"bookedprofiles\")\n    contact_number = models.CharField(max_length=12, blank=False)\n    booking_date = models.DateField(blank=False)\n    booking_time = models.TimeField(blank=True)\n    deasease = models.CharField(max_length=50,blank=False)\n    doc_name = models.CharField(max_length=12, blank=False)\n    dep_name = models.CharField(max_length=12, blank=False)\n    def __str__(self):",
+        "detail": "bookingAPP.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "bookingAPP.urls",
+        "description": "bookingAPP.urls",
+        "peekOfCode": "urlpatterns = [\n   path('', views.booking, name=\"booking\"),\n   path('<str:fname>/receipt/', views.receipt, name=\"receipt\")\n]",
+        "detail": "bookingAPP.urls",
+        "documentation": {}
+    },
+    {
+        "label": "booking",
+        "kind": 2,
+        "importPath": "bookingAPP.views",
+        "description": "bookingAPP.views",
+        "peekOfCode": "def booking(request):\n    doctors =Doctors.objects.all()\n    department =Departments.objects.all()\n    context = {\n                'doc':doctors,\n                'dep':department\n            }\n    if request.method == \"POST\":\n        name = request.POST['fullname']\n        pic = request.POST['photo']",
+        "detail": "bookingAPP.views",
+        "documentation": {}
+    },
+    {
+        "label": "receipt",
+        "kind": 2,
+        "importPath": "bookingAPP.views",
+        "description": "bookingAPP.views",
+        "peekOfCode": "def receipt(request,fname):\n    bo = Booking.objects.all().filter(full_name=fname)\n    re = RegisteredUser.objects.all()\n    return render(request,'receipt.html',{\"bo\":bo,\"re\":re})",
+        "detail": "bookingAPP.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "hospitalAPP.migrations.0001_initial",
+        "description": "hospitalAPP.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Departments',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=25, unique=True)),",
+        "detail": "hospitalAPP.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "hospitalAPP.migrations.0002_doctors",
+        "description": "hospitalAPP.migrations.0002_doctors",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('hospitalAPP', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Doctors',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=25, unique=True)),",
+        "detail": "hospitalAPP.migrations.0002_doctors",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "hospitalAPP.migrations.0003_auto_20210618_1025",
+        "description": "hospitalAPP.migrations.0003_auto_20210618_1025",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('hospitalAPP', '0002_doctors'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='doctors',\n            options={'ordering': ('Departments',), 'verbose_name': 'Docter', 'verbose_name_plural': 'Doctories'},\n        ),\n        migrations.RenameField(",
+        "detail": "hospitalAPP.migrations.0003_auto_20210618_1025",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "hospitalAPP.migrations.0004_auto_20210622_1700",
+        "description": "hospitalAPP.migrations.0004_auto_20210622_1700",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('hospitalAPP', '0003_auto_20210618_1025'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='doctors',\n            options={'ordering': ('departments',), 'verbose_name': 'Docter', 'verbose_name_plural': 'Doctories'},\n        ),\n        migrations.RenameField(",
+        "detail": "hospitalAPP.migrations.0004_auto_20210622_1700",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "hospitalAPP.migrations.0005_departments_discrpition",
+        "description": "hospitalAPP.migrations.0005_departments_discrpition",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('hospitalAPP', '0004_auto_20210622_1700'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='departments',\n            name='discrpition',\n            field=models.TextField(default=34, max_length=200),\n            preserve_default=False,",
+        "detail": "hospitalAPP.migrations.0005_departments_discrpition",
+        "documentation": {}
+    },
+    {
+        "label": "DepartmentAdmin",
+        "kind": 6,
+        "importPath": "hospitalAPP.admin",
+        "description": "hospitalAPP.admin",
+        "peekOfCode": "class DepartmentAdmin(admin.ModelAdmin):\n    list_display = ['name', 'slug', ]\n    prepopulated_fields = {'slug': ('name',)}\nadmin.site.register(Departments, DepartmentAdmin)\nclass DoctorAdmin(admin.ModelAdmin):\n    list_display = ['doc_name','departments','available']\n    list_editable = ['available']\nadmin.site.register(Doctors,DoctorAdmin)",
+        "detail": "hospitalAPP.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorAdmin",
+        "kind": 6,
+        "importPath": "hospitalAPP.admin",
+        "description": "hospitalAPP.admin",
+        "peekOfCode": "class DoctorAdmin(admin.ModelAdmin):\n    list_display = ['doc_name','departments','available']\n    list_editable = ['available']\nadmin.site.register(Doctors,DoctorAdmin)",
+        "detail": "hospitalAPP.admin",
+        "documentation": {}
+    },
+    {
+        "label": "HosptialappConfig",
+        "kind": 6,
+        "importPath": "hospitalAPP.apps",
+        "description": "hospitalAPP.apps",
+        "peekOfCode": "class HosptialappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'hospitalAPP'",
+        "detail": "hospitalAPP.apps",
+        "documentation": {}
+    },
+    {
+        "label": "menu_link",
+        "kind": 2,
+        "importPath": "hospitalAPP.context_processor",
+        "description": "hospitalAPP.context_processor",
+        "peekOfCode": "def menu_link(request):\n    links = Departments.objects.all()\n    return dict(links=links)",
+        "detail": "hospitalAPP.context_processor",
+        "documentation": {}
+    },
+    {
+        "label": "Departments",
+        "kind": 6,
+        "importPath": "hospitalAPP.models",
+        "description": "hospitalAPP.models",
+        "peekOfCode": "class Departments(models.Model):\n    name = models.CharField(max_length=25, unique=True)\n    slug = models.SlugField(max_length=25, unique=True)\n    icon = models.ImageField(upload_to=\"Departments\")\n    discrpition = models.TextField(max_length=200)\n    class Meta:\n        ordering = ('name',)\n        verbose_name = 'Department'\n        verbose_name_plural = 'Departments'\n    def get_urls(self):",
+        "detail": "hospitalAPP.models",
+        "documentation": {}
+    },
+    {
+        "label": "Doctors",
+        "kind": 6,
+        "importPath": "hospitalAPP.models",
+        "description": "hospitalAPP.models",
+        "peekOfCode": "class Doctors(models.Model):\n    doc_name = models.CharField(max_length=25, unique=True)\n    departments = models.ForeignKey(Departments, on_delete=models.CASCADE)\n    photos = models.ImageField(upload_to=\"Doctors\")\n    numbers = models.CharField(max_length=12) \n    available = models.BooleanField(default=True)       \n    class Meta:\n        ordering = ('departments',)\n        verbose_name = 'Docter'\n        verbose_name_plural = 'Doctories'",
+        "detail": "hospitalAPP.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "hospitalAPP.urls",
+        "description": "hospitalAPP.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.home, name=\"home\"),\n    path('about/', views.aboutUs, name=\"about\"),\n    path('<int:d_slug>/', views.departmentView, name=\"depview\"),\n    path('userlog/',views.dashboard, name=\"userlog\"),\n]",
+        "detail": "hospitalAPP.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "hospitalAPP.views",
+        "description": "hospitalAPP.views",
+        "peekOfCode": "def home(request):\n    dep = Departments.objects.all()\n    doctors_list = Doctors.objects.all().filter(available=True)\n    paginator = Paginator(doctors_list, 4)\n    try:\n        page = int(request.GET.get('page', '1'))\n    except:\n        page = 1\n    try:\n        doctors_lst = paginator.page(page)",
+        "detail": "hospitalAPP.views",
+        "documentation": {}
+    },
+    {
+        "label": "aboutUs",
+        "kind": 2,
+        "importPath": "hospitalAPP.views",
+        "description": "hospitalAPP.views",
+        "peekOfCode": "def aboutUs(request):\n    return render(request, \"about.html\")\ndef departmentView(request,d_slug=None):\n    d_page = get_object_or_404(Departments, id=d_slug)\n    doc_list = Doctors.objects.all().filter(departments=d_slug, available=True)\n    return render(request, 'depview.html',{'department':d_page,'doctor':doc_list})\ndef dashboard(request):\n    doctors = Doctors.objects.all()\n    doc_count = doctors.count()\n    departments = Departments.objects.all()",
+        "detail": "hospitalAPP.views",
+        "documentation": {}
+    },
+    {
+        "label": "departmentView",
+        "kind": 2,
+        "importPath": "hospitalAPP.views",
+        "description": "hospitalAPP.views",
+        "peekOfCode": "def departmentView(request,d_slug=None):\n    d_page = get_object_or_404(Departments, id=d_slug)\n    doc_list = Doctors.objects.all().filter(departments=d_slug, available=True)\n    return render(request, 'depview.html',{'department':d_page,'doctor':doc_list})\ndef dashboard(request):\n    doctors = Doctors.objects.all()\n    doc_count = doctors.count()\n    departments = Departments.objects.all()\n    dep_count = departments.count()\n    context = {",
+        "detail": "hospitalAPP.views",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "kind": 2,
+        "importPath": "hospitalAPP.views",
+        "description": "hospitalAPP.views",
+        "peekOfCode": "def dashboard(request):\n    doctors = Doctors.objects.all()\n    doc_count = doctors.count()\n    departments = Departments.objects.all()\n    dep_count = departments.count()\n    context = {\n        \"doc_count\":doc_count,\n        \"dep_count\":dep_count\n    }\n    return render(request, 'user_logined.html',context)",
+        "detail": "hospitalAPP.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Hosptial_website.asgi",
+        "description": "Hosptial_website.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Hosptial_website.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-a*+l_nh*e0s%tb67l9sz$qqr(45u*_8-%8v56)6@xilbf78xez'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-a*+l_nh*e0s%tb67l9sz$qqr(45u*_8-%8v56)6@xilbf78xez'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'hospitalAPP',",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'hospitalAPP',\n    'accountAPP',\n    'bookingAPP',",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'Hosptial_website.urls'",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "ROOT_URLCONF = 'Hosptial_website.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR,'templates')],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR,'templates')],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'Hosptial_website.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\nMEDIA_URL = '/media/'",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Default primary key field type",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMESSAGE_LEVEL = 10",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMESSAGE_LEVEL = 10",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMESSAGE_LEVEL = 10",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMESSAGE_LEVEL = 10",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMESSAGE_LEVEL = 10",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MESSAGE_LEVEL",
+        "kind": 5,
+        "importPath": "Hosptial_website.settings",
+        "description": "Hosptial_website.settings",
+        "peekOfCode": "MESSAGE_LEVEL = 10",
+        "detail": "Hosptial_website.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Hosptial_website.urls",
+        "description": "Hosptial_website.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include('hospitalAPP.urls')),\n    path('account/', include('accountAPP.urls')),\n    path('booking/', include('bookingAPP.urls')),\n    path('admin/', admin.site.urls),\n]\nif settings.DEBUG:\n    urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)\n    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)\n #   r'^static/(?P</static/>.*)$',views.serve)",
+        "detail": "Hosptial_website.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Hosptial_website.wsgi",
+        "description": "Hosptial_website.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Hosptial_website.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Hosptial_website.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

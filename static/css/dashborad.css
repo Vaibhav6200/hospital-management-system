@@ -1,0 +1,55 @@
+
+.heading{
+    color: rgb(228, 116, 116);
+    font-size: 40px;;
+    padding-left: 15px;
+}
+.doctor{
+     margin-top: 16px;
+     background-color: tomato;
+     float: left;
+     width: 25%;
+     padding: 40px 50px;
+     border-radius: 2px;
+     margin-left: 150px;
+}
+.bed{
+    margin-top: 16px;
+    background-color: rgb(242, 143, 37);
+    float: left;
+    width: 25%;
+    padding: 40px 50px;
+    border-radius: 2px;
+}
+.departments{
+    margin-top: 16px;
+    background-color: rgb(84, 135, 13);
+    float: left;
+    width: 25%;
+    padding: 40px 50px;
+    border-radius: 2px;
+}
+h3{
+    color: wheat;
+    text-align: center;
+    
+}
+.Appointment{
+    padding: 200px;
+    text-align: center;
+}
+button{
+    background-color: #0baeee;
+    color: #fff;
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.p-count{
+    text-align: center;
+    color: greenyellow;
+    font-size: 30px;
+}

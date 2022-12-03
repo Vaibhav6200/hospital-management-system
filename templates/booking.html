@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Booking page | HMS HOSPITAL {% endblock %}
+{% block content %}
+<link rel="stylesheet" href="{% static 'css/booking.css' %}">
+    <div class="B-container">
+    <h1 class="booking">Appointment Booking</h1><br>
+        <form id="form" method="post">
+            {% csrf_token %}
+            <label for="">Picture</label><br>
+            <input type="file" name="photo" id="imgF"><br>
+            <label for="">Full Name</label><br>
+            <input type="text" name="fullname" id="fullN" required><br>
+            <label for="">Contact Number</label><br>
+            <input type="tel" name="number" id="" required><br>
+            <label for="">Booking Time</label><br>
+            <input type="time" name="time" id="time" required> <br>
+            <label for="">Booking Date</label><br>
+            <input type="date" name="date" id="date" required> <br>
+            <label for="">Reason on purpose</label><br>
+            <input type="text" name="reson" id="" placeholder="deasease"><br>
+            <label for="">Select Department</label><br>
+            <select name="dep">
+                {% for de in dep %}
+                <option value="{{de.name}}" >{{de.name}}</option>
+                {% endfor %}
+            </select><br>
+            <label for="">Select Doctor</label><br>
+            <select name="doc">
+                {% for d in doc %}
+                <option value="{{d.doc_name}}">{{d.doc_name}}</option>
+                {% endfor %}
+            </select><br>
+                <input type="submit" id="log-btn" value="BOOK"></div>
+
+ </form>
+    <div id="error" style="color:red">
+        <h3 style="color:red">{{m}}</h3>
+    </div>
+        <div>
+
+        </div>
+    </div>
+
+    </div>
+</div>
+{% endblock %}

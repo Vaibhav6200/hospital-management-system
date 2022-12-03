@@ -1,0 +1,47 @@
+.B-container{
+  margin: 5px;
+}
+.booking{
+    background-color: blueviolet;
+    color: white;
+}
+label{
+    font-size: 15px;
+    color:lightslategray;
+}
+input{
+    width: 250px;
+    height: 25px;
+    border-color: rgb(217, 247, 250);
+    border-radius: 3px;
+}
+.imgF{
+    width: 100px;
+    height: 25px;
+    border-color: rgb(25, 25, 26);
+    border-radius: 3px;
+}
+select{
+    width: 100px;
+    height: 25px;
+    border-color: #7c7979;
+    border-radius: 3px;
+}
+/* reciptpage */
+.box{
+    padding: 10px;
+    margin-left: 15px;
+}
+
+.sucess{
+    background-color: lightgreen;
+    color: lightslategray;
+}
+label{
+    color: darkblue;
+    font-size: 20px;
+}
+h4{
+    color: lightslategray;
+    font-size: 15px;
+}

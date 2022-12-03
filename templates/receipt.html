@@ -1,0 +1,40 @@
+
+{% load static %}
+<title>Recipt| HMS HOSPITAL</title> 
+<link rel="stylesheet" href="{% static 'css/booking.css' %}"> 
+{% block content %}
+ <p style="margin-left: 100px;
+ margin-right: 100px;
+ text-align: center;color:green;
+ font-size: 30px;background-color:lightgreen ;border-color:limegreen;border-radius: 5px;">You are sucessfully booked </p>
+ <a href="{% url 'userlog' %}" style="float: right;background-color:coral;">BACK HOME</a>
+
+ {% for b in bo %}
+
+<div style="padding: 10px;margin-left: 15px;margin-right: 15px;" > 
+    <img src="{{b.profile_photo.url}}" alt="profile" style="width: 200px;">
+   <h3 style="padding:10px;">{{b.full_name}}</h3>
+   <hr>
+   {% for r in re %}
+   <label for="">Date of birth</label>
+   <h4>{{r.DOB}}</h4>
+   <label for="">Contact</label>
+   <h4>{{b.contact_number}}</h4>
+   <label for="">Address</label>
+   <h4>{{r.address}}</h4>
+   {% endfor %}
+   <hr>
+   <h3>Booked Details</h3>
+   <label for="">Time</label>
+   <h4>{{b.booking_time}}</h4>
+   <label for="">Date</label>
+   <h4>{{b.booking_date}}</h4>
+   <label for="">Reason</label>
+   <h4>{{b.deasease}}</h4>
+   <label for="">Doctor</label>
+   <h4>{{b.doc_name}}</h4>
+   <label for="">Department</label>
+   <h4>{{b.dep_name}}</h4>
+  </div>
+  {% endfor %}
+{% endblock %}

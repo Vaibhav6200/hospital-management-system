@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% block title %}Register | HMS HOSPITAL {% endblock %}
+{% block content %}
+
+<form action="" method="post">
+    {% csrf_token %}
+    <div class="register">
+
+        <h1>REGISTER</h1><br>
+        <div class="container-r">
+            <div style="float:right;padding-right:60px;">
+     {% for msg in messages %}
+    <h3 style="color:red">{{msg}}</h3>
+     {% endfor %}
+</div >
+        <label for="">First name</label><br>
+        <input type="text" name="fname" id="Fname" size="50"><br>
+        <label for="">Last name</label><br>
+        <input type="text" name="lname" id="lname"><br>
+        <label for="">Email*</label><br>
+        <input type="email" name="email" id="email"><br>
+        <label for="">Password</label><br><h3 style="color:red">{{msg}}</h3>
+        <input type="password" name="password" id="r-pwd"><br>
+        <label for=""> Confirm Password*</label><br>
+        <input type="password" name="password1" id="r-pwd1"><br>
+        <label for="">Phone Number</label><br><h3 style="color:red">{{msg}}</h3>
+        <input type="tel" name="number" id="number"><br>
+        <label for="">Address</label><br>
+        <textarea name="address" id="add-inp" cols="30" rows="10"></textarea><br>
+            <label for="">Date Of Birth</label><br>
+            <input type="date" name="dob" id="dob"><br>
+        <label for="">Gender</label><br>
+        <input type="radio" name="gender" value="Male" id="Radio"> Male
+        <input type="radio" name="gender" value="Female" id="Radio"> Female
+        <input type="radio" name="gender" value="Other" id="Radio"> Others<br>
+        <input type="checkbox"  id="Radio">I have read and submit my detials <br>
+        <input type="submit" value="Register" id="r-btn">
+        
+       </div>
+    </div>
+  </form>
+
+
+{% endblock %}
